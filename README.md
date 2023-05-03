@@ -1,0 +1,3 @@
+Download Link: https://assignmentchef.com/product/solved-create-an-application-that-keeps-track-of-the-voting
+<br>
+<p class="ui header product-top-header" title="Application that keeps track of the voting Solution">This year, three students are running for senior class president: Tyler Tomkins, Kate Gonzo, and John Chang. Create an application that keeps track of the voting. Save the voting information in a sequential access file. The application should display the number of votes per candidate. You can either create your own interface or create the one shown in Figure 11-49 on page 601 of the textbook. Save the solution and then start the application.
